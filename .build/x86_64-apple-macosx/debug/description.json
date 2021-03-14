@@ -1,0 +1,19 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/valentine\/Documents\/ios\/Proto\/.build\/x86_64-apple-macosx\/debug\/ProtoPackageTests.xctest\/Contents\/MacOS\/ProtoPackageTests",
+      "packageName" : "Proto",
+      "productName" : "ProtoPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.Proto-debug.module" : "Proto",
+    "C.ProtoTests-debug.module" : "ProtoTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

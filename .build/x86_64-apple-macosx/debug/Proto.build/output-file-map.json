@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.build/master.swiftdeps"
+  },
+  "/Users/valentine/Documents/ios/Proto/Sources/Proto/Proto.swift": {
+    "dependencies": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.build/Proto.d",
+    "object": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.build/Proto.swift.o",
+    "swiftmodule": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.build/Proto~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.build/Proto.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module Proto {
+    header "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.build/Proto-Swift.h"
+    requires objc
+}

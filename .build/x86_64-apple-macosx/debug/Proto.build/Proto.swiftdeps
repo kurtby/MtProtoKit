@@ -1,0 +1,22 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Proto"
+provides-nominal:
+- "5ProtoAAV"
+provides-member:
+- ["5ProtoAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Proto"
+- "StringLiteralType"
+depends-member:
+- ["5ProtoAAV", "init"]
+- ["5ProtoAAV", "text"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "5ProtoAAV"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.build/module.modulemap"
+interface-hash: "36f1bcc277e51afb0ac2970c69946be1"

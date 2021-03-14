@@ -1,0 +1,146 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ProtoTests"
+provides-nominal:
+- "10ProtoTestsAAC"
+provides-member:
+- ["10ProtoTestsAAC", ""]
+provides-dynamic-lookup:
+- "allTests"
+- "testExample"
+depends-top-level:
+- "Array"
+- !private "Proto"
+- "ProtoTests"
+- "StringLiteralType"
+- !private "XCTAssertEqual"
+- "XCTestCase"
+- "testExample"
+depends-member:
+- !private ["s7CVarArgP", "Proto"]
+- !private ["s7CVarArgP", "XCTAssertEqual"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "testExample"]
+- !private ["s28CustomDebugStringConvertibleP", "Proto"]
+- !private ["s28CustomDebugStringConvertibleP", "XCTAssertEqual"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "testExample"]
+- !private ["s23CustomStringConvertibleP", "Proto"]
+- !private ["s23CustomStringConvertibleP", "XCTAssertEqual"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "testExample"]
+- !private ["SQ", "Proto"]
+- !private ["SQ", "XCTAssertEqual"]
+- ["SQ", ""]
+- ["SQ", "testExample"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["SH", "Proto"]
+- !private ["SH", "XCTAssertEqual"]
+- ["SH", ""]
+- ["SH", "testExample"]
+- !private ["So8NSObjectC", "Proto"]
+- !private ["So8NSObjectC", "XCTAssertEqual"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "allTests"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "testCaseWithInvocation"]
+- ["So8NSObjectC", "testCaseWithSelector"]
+- ["So8NSObjectC", "testExample"]
+- !private ["So8NSObjectP", "Proto"]
+- !private ["So8NSObjectP", "XCTAssertEqual"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "allTests"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "testCaseWithInvocation"]
+- ["So8NSObjectP", "testCaseWithSelector"]
+- ["So8NSObjectP", "testExample"]
+- !private ["5ProtoAAV", "init"]
+- !private ["5ProtoAAV", "text"]
+- !private ["10ProtoTestsAAC", "Proto"]
+- !private ["10ProtoTestsAAC", "XCTAssertEqual"]
+- ["10ProtoTestsAAC", ""]
+- ["10ProtoTestsAAC", "allTests"]
+- ["10ProtoTestsAAC", "deinit"]
+- ["10ProtoTestsAAC", "init"]
+- ["10ProtoTestsAAC", "testExample"]
+- !private ["So11XCTActivityP", "Proto"]
+- !private ["So11XCTActivityP", "XCTAssertEqual"]
+- ["So11XCTActivityP", ""]
+- ["So11XCTActivityP", "allTests"]
+- ["So11XCTActivityP", "init"]
+- ["So11XCTActivityP", "testExample"]
+- !private ["So17XCTWaiterDelegateP", "Proto"]
+- !private ["So17XCTWaiterDelegateP", "XCTAssertEqual"]
+- ["So17XCTWaiterDelegateP", ""]
+- ["So17XCTWaiterDelegateP", "allTests"]
+- ["So17XCTWaiterDelegateP", "init"]
+- ["So17XCTWaiterDelegateP", "testExample"]
+- !private ["So6XCTestC", "Proto"]
+- !private ["So6XCTestC", "XCTAssertEqual"]
+- ["So6XCTestC", ""]
+- ["So6XCTestC", "allTests"]
+- ["So6XCTestC", "init"]
+- ["So6XCTestC", "testCaseWithInvocation"]
+- ["So6XCTestC", "testCaseWithSelector"]
+- ["So6XCTestC", "testExample"]
+- !private ["So10XCTestCaseC", "Proto"]
+- !private ["So10XCTestCaseC", "XCTAssertEqual"]
+- ["So10XCTestCaseC", ""]
+- ["So10XCTestCaseC", "allTests"]
+- ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "testExample"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Proto"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCTAssertEqual"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "testExample"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Proto"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "XCTAssertEqual"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "testExample"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "5ProtoAAV"
+- "10ProtoTestsAAC"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib/XCTest.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/Proto.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "208c3fe7f4ab51cd25850b48a60a45da"

@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/master.swiftdeps"
+  },
+  "/Users/valentine/Documents/ios/Proto/Tests/ProtoTests/ProtoTests.swift": {
+    "dependencies": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/ProtoTests.d",
+    "object": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/ProtoTests.swift.o",
+    "swiftmodule": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/ProtoTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/ProtoTests.swiftdeps"
+  },
+  "/Users/valentine/Documents/ios/Proto/Tests/ProtoTests/XCTestManifests.swift": {
+    "dependencies": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/XCTestManifests.d",
+    "object": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/XCTestManifests.swift.o",
+    "swiftmodule": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/XCTestManifests~partial.swiftmodule",
+    "swift-dependencies": "/Users/valentine/Documents/ios/Proto/.build/x86_64-apple-macosx/debug/ProtoTests.build/XCTestManifests.swiftdeps"
+  }
+}
